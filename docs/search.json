@@ -1,0 +1,757 @@
+
+[
+  
+    {
+
+      "title"    : "0211",
+      "url"      : "/0211",
+      "category" : "physics",
+      "tags"     : "least square, linear regression, line",
+      "date"     : "2021-12-03 08:30:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0210",
+      "url"      : "/0210",
+      "category" : "mathematics",
+      "tags"     : "simple linear regression, least square",
+      "date"     : "2021-12-02 21:20:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0200",
+      "url"      : "/0200",
+      "category" : "physics",
+      "tags"     : "stem cell, nanopattern, actin growth model",
+      "date"     : "2021-11-30 21:14:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0191",
+      "url"      : "/0191",
+      "category" : "physics",
+      "tags"     : "multi-concept, research-based learning, vertical jump",
+      "date"     : "2021-11-29 07:00:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0182",
+      "url"      : "/0182",
+      "category" : "physics",
+      "tags"     : "elasticity, hooke's law, elastic modulus, shear modulus",
+      "date"     : "2021-11-28 20:40:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0183",
+      "url"      : "/0183",
+      "category" : "physics",
+      "tags"     : "elasticity, hooke's law, elastic modulus, bulk modulus",
+      "date"     : "2021-11-28 19:36:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0184",
+      "url"      : "/0184",
+      "category" : "physics",
+      "tags"     : "elasticity, hooke's law, elastic modulus, young's modulus, spring, mass",
+      "date"     : "2021-11-28 17:59:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0181",
+      "url"      : "/0181",
+      "category" : "physics",
+      "tags"     : "elasticity, hooke's law, elastic modulus, young's modulus",
+      "date"     : "2021-11-27 11:45:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0180",
+      "url"      : "/0180",
+      "category" : "physics",
+      "tags"     : "elasticity, hooke's law, elastic modulus",
+      "date"     : "2021-11-25 05:38:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0170",
+      "url"      : "/0170",
+      "category" : "physics",
+      "tags"     : "scientific article, writing strategy",
+      "date"     : "2021-11-23 09:22:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0161",
+      "url"      : "/0161",
+      "category" : "physics",
+      "tags"     : "energy, heat",
+      "date"     : "2021-11-20 22:02:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "000q",
+      "url"      : "/000q",
+      "category" : "physics",
+      "tags"     : "quran",
+      "date"     : "2021-11-19 19:16:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0004",
+      "url"      : "/0004",
+      "category" : "physics",
+      "tags"     : "test, layout, docx, xlsx, sketch, standard",
+      "date"     : "2021-11-18 09:35:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0160",
+      "url"      : "/0160",
+      "category" : "physics",
+      "tags"     : "energy, heat",
+      "date"     : "2021-11-16 20:36:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0150",
+      "url"      : "/0150",
+      "category" : "physics",
+      "tags"     : "multi-concept, physics problem",
+      "date"     : "2021-11-15 21:27:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0135",
+      "url"      : "/0135",
+      "category" : "physics",
+      "tags"     : "ideal gas law, heat capacity",
+      "date"     : "2021-11-14 20:54:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0134",
+      "url"      : "/0134",
+      "category" : "physics",
+      "tags"     : "ideal gas law, state, process, cycle, internal energy",
+      "date"     : "2021-11-14 17:12:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0140",
+      "url"      : "/0140",
+      "category" : "physics",
+      "tags"     : "mass",
+      "date"     : "2021-11-13 19:18:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0133",
+      "url"      : "/0133",
+      "category" : "physics",
+      "tags"     : "ideal gas law, special processes",
+      "date"     : "2021-11-13 10:18:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0132",
+      "url"      : "/0132",
+      "category" : "physics",
+      "tags"     : "ideal gas law, state, process, cycle",
+      "date"     : "2021-11-11 18:45:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0131",
+      "url"      : "/0131",
+      "category" : "physics",
+      "tags"     : "ideal gas, kinetic theory of gases, ideal gas law",
+      "date"     : "2021-11-09 21:09:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0130",
+      "url"      : "/0130",
+      "category" : "physics",
+      "tags"     : "ideal gas, kinetic theory of gases",
+      "date"     : "2021-11-09 10:18:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0120",
+      "url"      : "/0120",
+      "category" : "physics",
+      "tags"     : "pressure, force, area",
+      "date"     : "2021-11-08 06:34:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0110",
+      "url"      : "/0110",
+      "category" : "physics",
+      "tags"     : "motion, energy, kinetic energy",
+      "date"     : "2021-11-07 17:11:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0102",
+      "url"      : "/0102",
+      "category" : "physics",
+      "tags"     : "linear momentum, impulse",
+      "date"     : "2021-11-07 14:50:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0101",
+      "url"      : "/0101",
+      "category" : "physics",
+      "tags"     : "linear momentum, law of conservation of momentum, collision",
+      "date"     : "2021-11-06 21:36:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0100",
+      "url"      : "/0100",
+      "category" : "physics",
+      "tags"     : "linear momentum",
+      "date"     : "2021-11-06 16:47:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0093",
+      "url"      : "/0093",
+      "category" : "physics",
+      "tags"     : "dynamics, newton's law of motion, third law, 3rd",
+      "date"     : "2021-11-06 10:29:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0092",
+      "url"      : "/0092",
+      "category" : "physics",
+      "tags"     : "dynamics, newton's law of motion, second law, 2nd",
+      "date"     : "2021-11-05 06:41:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0003",
+      "url"      : "/0003",
+      "category" : "physics",
+      "tags"     : "examples, tutorial",
+      "date"     : "2021-11-04 09:00:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0091",
+      "url"      : "/0091",
+      "category" : "physics",
+      "tags"     : "dynamics, newton's law of motion, first law, 1st",
+      "date"     : "2021-11-03 13:28:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0090",
+      "url"      : "/0090",
+      "category" : "physics",
+      "tags"     : "dynamics, newton's law of motion",
+      "date"     : "2021-11-02 04:09:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0084",
+      "url"      : "/0084",
+      "category" : "physics",
+      "tags"     : "kinematics, 2d, circular motion, non-uniform",
+      "date"     : "2021-11-01 20:55:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0083",
+      "url"      : "/0083",
+      "category" : "physics",
+      "tags"     : "kinematics, 2d, circular motion, uniform",
+      "date"     : "2021-11-01 10:16:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0015",
+      "url"      : "/0015",
+      "category" : "math",
+      "tags"     : "introduction, polar coordinate, unit vector, position, velocity, acceleration, differential",
+      "date"     : "2021-10-31 20:45:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0082",
+      "url"      : "/0082",
+      "category" : "physics",
+      "tags"     : "kinematics, 2d, circular motion, uniform",
+      "date"     : "2021-10-31 19:03:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0081",
+      "url"      : "/0081",
+      "category" : "physics",
+      "tags"     : "kinematics, 2d, parabolic motion",
+      "date"     : "2021-10-30 07:44:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0080",
+      "url"      : "/0080",
+      "category" : "physics",
+      "tags"     : "kinematics, 2d",
+      "date"     : "2021-10-29 07:57:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0070",
+      "url"      : "/0070",
+      "category" : "physics",
+      "tags"     : "mechanics, wave, sound, light, superposition principle",
+      "date"     : "2021-10-27 20:21:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0064",
+      "url"      : "/0064",
+      "category" : "physics",
+      "tags"     : "kinematics, equations, nonuniform, linear, motion, constant, acceleration, free fall",
+      "date"     : "2021-10-26 21:02:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0063",
+      "url"      : "/0063",
+      "category" : "physics",
+      "tags"     : "kinematics, equations, nonuniform, linear, motion, constant, acceleration",
+      "date"     : "2021-10-26 11:40:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0062",
+      "url"      : "/0062",
+      "category" : "physics",
+      "tags"     : "kinematics, equations, uniform, linear, problem, car, chase",
+      "date"     : "2021-10-25 15:51:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0061",
+      "url"      : "/0061",
+      "category" : "physics",
+      "tags"     : "kinematics, equations, uniform, linear, motion",
+      "date"     : "2021-10-24 18:44:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0060",
+      "url"      : "/0060",
+      "category" : "physics",
+      "tags"     : "kinematics, equations",
+      "date"     : "2021-10-23 20:39:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0055",
+      "url"      : "/0055",
+      "category" : "physics",
+      "tags"     : "kinematics, velocity, relative velocity, river, crossing",
+      "date"     : "2021-10-23 07:36:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0002",
+      "url"      : "/0002",
+      "category" : "item",
+      "tags"     : "references",
+      "date"     : "2021-10-22 15:55:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0054",
+      "url"      : "/0054",
+      "category" : "physics",
+      "tags"     : "kinematics, velocity, relative velocity",
+      "date"     : "2021-10-22 09:27:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0053",
+      "url"      : "/0053",
+      "category" : "physics",
+      "tags"     : "kinematics, velocity, speed",
+      "date"     : "2021-10-19 21:14:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0052",
+      "url"      : "/0052",
+      "category" : "physics",
+      "tags"     : "kinematics, velocity, speed",
+      "date"     : "2021-10-19 15:23:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0051",
+      "url"      : "/0051",
+      "category" : "physics",
+      "tags"     : "kinematics, velocity, average velocity",
+      "date"     : "2021-10-17 19:59:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0050",
+      "url"      : "/0050",
+      "category" : "physics",
+      "tags"     : "kinematics, velocity",
+      "date"     : "2021-10-16 11:58:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0044",
+      "url"      : "/0044",
+      "category" : "physics",
+      "tags"     : "kinematics, position, velocity, acceleration, graph, xva, consecutive motion",
+      "date"     : "2021-10-14 20:22:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0043",
+      "url"      : "/0043",
+      "category" : "physics",
+      "tags"     : "kinematics, position, velocity, acceleration, graph, xva, consecutive motion",
+      "date"     : "2021-10-14 10:51:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0042",
+      "url"      : "/0042",
+      "category" : "physics",
+      "tags"     : "kinematics, position, velocity, acceleration, initial condition, xva",
+      "date"     : "2021-10-13 20:29:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0041",
+      "url"      : "/0041",
+      "category" : "physics",
+      "tags"     : "kinematics, velocity, acceleration",
+      "date"     : "2021-10-13 17:29:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0040",
+      "url"      : "/0040",
+      "category" : "physics",
+      "tags"     : "kinematics, position, velocity",
+      "date"     : "2021-10-12 20:39:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0037",
+      "url"      : "/0037",
+      "category" : "physics",
+      "tags"     : "unit, measurement, length",
+      "date"     : "2021-10-12 16:40:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0036",
+      "url"      : "/0036",
+      "category" : "physics",
+      "tags"     : "kinematics, measurement, length",
+      "date"     : "2021-10-12 13:29:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0035",
+      "url"      : "/0035",
+      "category" : "physics",
+      "tags"     : "kinematics, distance, 1d",
+      "date"     : "2021-10-11 20:51:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0034",
+      "url"      : "/0034",
+      "category" : "physics",
+      "tags"     : "kinematics, distance, 2d",
+      "date"     : "2021-10-08 19:58:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0033",
+      "url"      : "/0033",
+      "category" : "physics",
+      "tags"     : "kinematics, displacement, 1d",
+      "date"     : "2021-10-07 21:22:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0032",
+      "url"      : "/0032",
+      "category" : "physics",
+      "tags"     : "kinematics, displacement, 2d",
+      "date"     : "2021-10-05 20:09:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0001",
+      "url"      : "/0001",
+      "category" : "item",
+      "tags"     : "progress",
+      "date"     : "2021-10-04 20:30:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0031",
+      "url"      : "/0031",
+      "category" : "physics",
+      "tags"     : "kinematics, relative position",
+      "date"     : "2021-10-04 18:54:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0030",
+      "url"      : "/0030",
+      "category" : "physics",
+      "tags"     : "kinematics, frame of reference, position",
+      "date"     : "2021-10-04 07:45:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0022",
+      "url"      : "/0022",
+      "category" : "math",
+      "tags"     : "unit, si, prefixes",
+      "date"     : "2021-10-02 19:41:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0021",
+      "url"      : "/0021",
+      "category" : "math",
+      "tags"     : "unit, conversion, one",
+      "date"     : "2021-10-02 14:04:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0020",
+      "url"      : "/0020",
+      "category" : "math",
+      "tags"     : "si, units, new",
+      "date"     : "2021-10-01 18:53:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0000",
+      "url"      : "/0000",
+      "category" : "item",
+      "tags"     : "introduction, log",
+      "date"     : "2021-09-29 09:57:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0012",
+      "url"      : "/0012",
+      "category" : "math",
+      "tags"     : "coordinate system, 3d, projection, 2d, introduction",
+      "date"     : "2021-05-23 05:34:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0011",
+      "url"      : "/0011",
+      "category" : "math",
+      "tags"     : "coordinate system, 3d, 2d, introduction",
+      "date"     : "2021-05-23 00:59:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0010",
+      "url"      : "/0010",
+      "category" : "math",
+      "tags"     : "coordinate system, 2d, introduction",
+      "date"     : "2021-05-22 22:37:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0212",
+      "url"      : "/0212",
+      "category" : "physics",
+      "tags"     : "machine learning, regression, numerical solution, learning type, learning model",
+      "date"     : "2021-04-21 09:44:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0014",
+      "url"      : "/0014",
+      "category" : "math",
+      "tags"     : "vector, 2d, introduction, add",
+      "date"     : "2020-09-21 11:30:00 +0700"
+			
+    } ,
+  
+    {
+
+      "title"    : "0013",
+      "url"      : "/0013",
+      "category" : "math",
+      "tags"     : "vector, 2d, introduction",
+      "date"     : "2020-09-21 08:25:00 +0700"
+			
+    } 
+  
+]
+
+
+

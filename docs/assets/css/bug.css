@@ -1,0 +1,58 @@
+ans {
+	color: transparent;
+}
+
+@media screen and (max-width: 576px),
+screen and (max-device-width: 480px)
+and (orientation: portrait) {
+	body {
+		word-wrap: break-word;
+		margin: -20px -15px;
+	}
+}
+
+/* github.css */
+/*
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+}
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0;
+}
+
+dl dt {
+  padding: 0;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+table tr th {
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr td {
+  margin: 0;
+  padding: 6px 13px;
+}
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+}
+*/
